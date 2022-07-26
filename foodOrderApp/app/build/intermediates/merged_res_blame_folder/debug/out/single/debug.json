@@ -1,0 +1,138 @@
+[
+    {
+        "merged": "/home/inightjar/.gradle/daemon/7.3.3/com.android.foodorderapp-merged_res-16:/drawable_textview_border.xml.flat",
+        "source": "/home/inightjar/.gradle/daemon/7.3.3/com.android.foodorderapp-main-18:/drawable/textview_border.xml"
+    },
+    {
+        "merged": "/home/inightjar/.gradle/daemon/7.3.3/com.android.foodorderapp-merged_res-16:/raw_restaurent.json.flat",
+        "source": "/home/inightjar/.gradle/daemon/7.3.3/com.android.foodorderapp-main-18:/raw/restaurent.json"
+    },
+    {
+        "merged": "/home/inightjar/.gradle/daemon/7.3.3/com.android.foodorderapp-merged_res-16:/layout_activity_sign_up.xml.flat",
+        "source": "/home/inightjar/.gradle/daemon/7.3.3/com.android.foodorderapp-main-18:/layout/activity_sign_up.xml"
+    },
+    {
+        "merged": "/home/inightjar/.gradle/daemon/7.3.3/com.android.foodorderapp-merged_res-16:/drawable_button_bg.xml.flat",
+        "source": "/home/inightjar/.gradle/daemon/7.3.3/com.android.foodorderapp-main-18:/drawable/button_bg.xml"
+    },
+    {
+        "merged": "/home/inightjar/.gradle/daemon/7.3.3/com.android.foodorderapp-merged_res-16:/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "/home/inightjar/.gradle/daemon/7.3.3/com.android.foodorderapp-main-18:/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/inightjar/.gradle/daemon/7.3.3/com.android.foodorderapp-merged_res-16:/mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "/home/inightjar/.gradle/daemon/7.3.3/com.android.foodorderapp-main-18:/mipmap-xxxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/home/inightjar/.gradle/daemon/7.3.3/com.android.foodorderapp-merged_res-16:/layout_recycler_row.xml.flat",
+        "source": "/home/inightjar/.gradle/daemon/7.3.3/com.android.foodorderapp-main-18:/layout/recycler_row.xml"
+    },
+    {
+        "merged": "/home/inightjar/.gradle/daemon/7.3.3/com.android.foodorderapp-merged_res-16:/layout_activity_restaurant_menu.xml.flat",
+        "source": "/home/inightjar/.gradle/daemon/7.3.3/com.android.foodorderapp-main-18:/layout/activity_restaurant_menu.xml"
+    },
+    {
+        "merged": "/home/inightjar/.gradle/daemon/7.3.3/com.android.foodorderapp-merged_res-16:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "/home/inightjar/.gradle/daemon/7.3.3/com.android.foodorderapp-main-18:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "/home/inightjar/.gradle/daemon/7.3.3/com.android.foodorderapp-merged_res-16:/mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "/home/inightjar/.gradle/daemon/7.3.3/com.android.foodorderapp-main-18:/mipmap-xhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/home/inightjar/.gradle/daemon/7.3.3/com.android.foodorderapp-merged_res-16:/drawable_ic_fsplash.xml.flat",
+        "source": "/home/inightjar/.gradle/daemon/7.3.3/com.android.foodorderapp-main-18:/drawable/ic_fsplash.xml"
+    },
+    {
+        "merged": "/home/inightjar/.gradle/daemon/7.3.3/com.android.foodorderapp-merged_res-16:/layout_menu_recycler_row.xml.flat",
+        "source": "/home/inightjar/.gradle/daemon/7.3.3/com.android.foodorderapp-main-18:/layout/menu_recycler_row.xml"
+    },
+    {
+        "merged": "/home/inightjar/.gradle/daemon/7.3.3/com.android.foodorderapp-merged_res-16:/drawable_ic_add_circle.xml.flat",
+        "source": "/home/inightjar/.gradle/daemon/7.3.3/com.android.foodorderapp-main-18:/drawable/ic_add_circle.xml"
+    },
+    {
+        "merged": "/home/inightjar/.gradle/daemon/7.3.3/com.android.foodorderapp-merged_res-16:/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "/home/inightjar/.gradle/daemon/7.3.3/com.android.foodorderapp-main-18:/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/inightjar/.gradle/daemon/7.3.3/com.android.foodorderapp-merged_res-16:/mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "/home/inightjar/.gradle/daemon/7.3.3/com.android.foodorderapp-main-18:/mipmap-mdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/home/inightjar/.gradle/daemon/7.3.3/com.android.foodorderapp-merged_res-16:/drawable_edittextbackground.xml.flat",
+        "source": "/home/inightjar/.gradle/daemon/7.3.3/com.android.foodorderapp-main-18:/drawable/edittextbackground.xml"
+    },
+    {
+        "merged": "/home/inightjar/.gradle/daemon/7.3.3/com.android.foodorderapp-merged_res-16:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "/home/inightjar/.gradle/daemon/7.3.3/com.android.foodorderapp-main-18:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "/home/inightjar/.gradle/daemon/7.3.3/com.android.foodorderapp-merged_res-16:/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "/home/inightjar/.gradle/daemon/7.3.3/com.android.foodorderapp-main-18:/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/inightjar/.gradle/daemon/7.3.3/com.android.foodorderapp-merged_res-16:/drawable_back.jpg.flat",
+        "source": "/home/inightjar/.gradle/daemon/7.3.3/com.android.foodorderapp-main-18:/drawable/back.jpg"
+    },
+    {
+        "merged": "/home/inightjar/.gradle/daemon/7.3.3/com.android.foodorderapp-merged_res-16:/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "/home/inightjar/.gradle/daemon/7.3.3/com.android.foodorderapp-main-18:/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/inightjar/.gradle/daemon/7.3.3/com.android.foodorderapp-merged_res-16:/layout_crudorders.xml.flat",
+        "source": "/home/inightjar/.gradle/daemon/7.3.3/com.android.foodorderapp-main-18:/layout/crudorders.xml"
+    },
+    {
+        "merged": "/home/inightjar/.gradle/daemon/7.3.3/com.android.foodorderapp-merged_res-16:/layout_activity_splash.xml.flat",
+        "source": "/home/inightjar/.gradle/daemon/7.3.3/com.android.foodorderapp-main-18:/layout/activity_splash.xml"
+    },
+    {
+        "merged": "/home/inightjar/.gradle/daemon/7.3.3/com.android.foodorderapp-merged_res-16:/mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "/home/inightjar/.gradle/daemon/7.3.3/com.android.foodorderapp-main-18:/mipmap-xxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/home/inightjar/.gradle/daemon/7.3.3/com.android.foodorderapp-merged_res-16:/layout_activity_main.xml.flat",
+        "source": "/home/inightjar/.gradle/daemon/7.3.3/com.android.foodorderapp-main-18:/layout/activity_main.xml"
+    },
+    {
+        "merged": "/home/inightjar/.gradle/daemon/7.3.3/com.android.foodorderapp-merged_res-16:/layout_activity_sign_in.xml.flat",
+        "source": "/home/inightjar/.gradle/daemon/7.3.3/com.android.foodorderapp-main-18:/layout/activity_sign_in.xml"
+    },
+    {
+        "merged": "/home/inightjar/.gradle/daemon/7.3.3/com.android.foodorderapp-merged_res-16:/layout_activity_order_succeess.xml.flat",
+        "source": "/home/inightjar/.gradle/daemon/7.3.3/com.android.foodorderapp-main-18:/layout/activity_order_succeess.xml"
+    },
+    {
+        "merged": "/home/inightjar/.gradle/daemon/7.3.3/com.android.foodorderapp-merged_res-16:/mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "/home/inightjar/.gradle/daemon/7.3.3/com.android.foodorderapp-main-18:/mipmap-hdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/home/inightjar/.gradle/daemon/7.3.3/com.android.foodorderapp-merged_res-16:/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "/home/inightjar/.gradle/daemon/7.3.3/com.android.foodorderapp-main-18:/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/inightjar/.gradle/daemon/7.3.3/com.android.foodorderapp-merged_res-16:/drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "/home/inightjar/.gradle/daemon/7.3.3/com.android.foodorderapp-main-18:/drawable-v24/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "/home/inightjar/.gradle/daemon/7.3.3/com.android.foodorderapp-merged_res-16:/layout_place_order_recycler_row.xml.flat",
+        "source": "/home/inightjar/.gradle/daemon/7.3.3/com.android.foodorderapp-main-18:/layout/place_order_recycler_row.xml"
+    },
+    {
+        "merged": "/home/inightjar/.gradle/daemon/7.3.3/com.android.foodorderapp-merged_res-16:/drawable_ic_remove_circle.xml.flat",
+        "source": "/home/inightjar/.gradle/daemon/7.3.3/com.android.foodorderapp-main-18:/drawable/ic_remove_circle.xml"
+    },
+    {
+        "merged": "/home/inightjar/.gradle/daemon/7.3.3/com.android.foodorderapp-merged_res-16:/layout_activity_place_your_order.xml.flat",
+        "source": "/home/inightjar/.gradle/daemon/7.3.3/com.android.foodorderapp-main-18:/layout/activity_place_your_order.xml"
+    },
+    {
+        "merged": "com.android.foodorderapp-merged_res-16:/layout_activity_place_your_order.xml.flat",
+        "source": "com.android.foodorderapp-main-18:/layout/activity_place_your_order.xml"
+    },
+    {
+        "merged": "/home/inightjar/.gradle/daemon/7.3.3/com.android.foodorderapp-merged_res-16:/drawable_ic_launcher_background.xml.flat",
+        "source": "/home/inightjar/.gradle/daemon/7.3.3/com.android.foodorderapp-main-18:/drawable/ic_launcher_background.xml"
+    }
+]

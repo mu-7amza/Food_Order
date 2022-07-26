@@ -1,0 +1,210 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/inightjar/inightjar/testingCodesAndStuff/foodOrderApp/app/src/main/AndroidManifest.xml:2:1-41:12
+INJECTED from /home/inightjar/inightjar/testingCodesAndStuff/foodOrderApp/app/src/main/AndroidManifest.xml:2:1-41:12
+INJECTED from /home/inightjar/inightjar/testingCodesAndStuff/foodOrderApp/app/src/main/AndroidManifest.xml:2:1-41:12
+INJECTED from /home/inightjar/inightjar/testingCodesAndStuff/foodOrderApp/app/src/main/AndroidManifest.xml:2:1-41:12
+MERGED from [com.google.android.material:material:1.2.1] /home/inightjar/.gradle/caches/transforms-3/127241354758d11b93f0210c890a49c5/transformed/material-1.2.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] /home/inightjar/.gradle/caches/transforms-3/a07999c6c41f1cb26d56d04d9758bc4c/transformed/constraintlayout-2.0.4/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.appcompat:appcompat:1.2.0] /home/inightjar/.gradle/caches/transforms-3/74cae2a8815039475224d5dbb0c04154/transformed/appcompat-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.github.bumptech.glide:glide:4.11.0] /home/inightjar/.gradle/caches/transforms-3/513698e30761ce0cd79375f75e3bde81/transformed/jetified-glide-4.11.0/AndroidManifest.xml:2:1-12:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/inightjar/.gradle/caches/transforms-3/e1a62715087a89352861ae3443fed18d/transformed/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /home/inightjar/.gradle/caches/transforms-3/e9a984f11cfdd45d3f413f1476f7f21f/transformed/jetified-viewpager2-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment:1.1.0] /home/inightjar/.gradle/caches/transforms-3/1e85e43779483780a9d83976050de6a3/transformed/fragment-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] /home/inightjar/.gradle/caches/transforms-3/2ff4ed4a92986ebbeb0e280fcea258bf/transformed/jetified-appcompat-resources-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/inightjar/.gradle/caches/transforms-3/6288329dc9f81b44d707170357848660/transformed/drawerlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cardview:cardview:1.0.0] /home/inightjar/.gradle/caches/transforms-3/0751861119962ac0f78d2deaf3a4a68f/transformed/cardview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /home/inightjar/.gradle/caches/transforms-3/fafe20f33fc1f1973a5a6b5f88e11979/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.transition:transition:1.2.0] /home/inightjar/.gradle/caches/transforms-3/e353275a5dad5cd7dd5d51284dfd5302/transformed/transition-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /home/inightjar/.gradle/caches/transforms-3/2123698e98f614592287cfca95ce0b65/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /home/inightjar/.gradle/caches/transforms-3/99b67211caf75454d8db8cffaa4c204a/transformed/vectordrawable-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/inightjar/.gradle/caches/transforms-3/d6f048992aa4c98c57a5f34754783a6f/transformed/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /home/inightjar/.gradle/caches/transforms-3/089f3a62207b4741a667b58aa013b8b6/transformed/loader-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.0.0] /home/inightjar/.gradle/caches/transforms-3/904bdb3126ca59645ce9606f0cf04c69/transformed/jetified-activity-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /home/inightjar/.gradle/caches/transforms-3/0a48c48e7ac9cdb1931530cff684f072/transformed/recyclerview-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview:1.0.0] /home/inightjar/.gradle/caches/transforms-3/f5000f73130b69910a081e3326ad36cc/transformed/customview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.3.1] /home/inightjar/.gradle/caches/transforms-3/2c8490e2d60db3b7ae736d9ff0678416/transformed/core-1.3.1/AndroidManifest.xml:17:1-26:12
+MERGED from [com.github.bumptech.glide:gifdecoder:4.11.0] /home/inightjar/.gradle/caches/transforms-3/5681ae0cabb22ec49891fe98a39791ff/transformed/jetified-gifdecoder-4.11.0/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.exifinterface:exifinterface:1.0.0] /home/inightjar/.gradle/caches/transforms-3/d7c78291ba9c17c756cf7f37dad2d5c7/transformed/exifinterface-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /home/inightjar/.gradle/caches/transforms-3/12c35f0373503f0fcf2e890dac6d848e/transformed/versionedparcelable-1.1.0/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] /home/inightjar/.gradle/caches/transforms-3/222f82d0896ea5a4323567186ced203b/transformed/lifecycle-runtime-2.1.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /home/inightjar/.gradle/caches/transforms-3/8cde5e2570550ba1b0f026d8adb51334/transformed/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] /home/inightjar/.gradle/caches/transforms-3/2099cfb4e298e2beceaeb5050208494f/transformed/jetified-savedstate-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/inightjar/.gradle/caches/transforms-3/bea07825b7217081cc6ac437eb5d453f/transformed/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/inightjar/.gradle/caches/transforms-3/0dff1c662625ea984670c5782fc7d571/transformed/lifecycle-livedata-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /home/inightjar/.gradle/caches/transforms-3/45b72bf86ea80fce2b63582a30f5cef2/transformed/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /home/inightjar/.gradle/caches/transforms-3/05eb5b7623b154418903d97436d6aa68/transformed/core-runtime-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] /home/inightjar/.gradle/caches/transforms-3/ba70c54b8349bcf130060496a9c1409c/transformed/jetified-annotation-experimental-1.0.0/AndroidManifest.xml:17:1-24:12
+INJECTED from /home/inightjar/inightjar/testingCodesAndStuff/foodOrderApp/app/src/main/AndroidManifest.xml:2:1-41:12
+INJECTED from /home/inightjar/inightjar/testingCodesAndStuff/foodOrderApp/app/src/main/AndroidManifest.xml:2:1-41:12
+INJECTED from /home/inightjar/inightjar/testingCodesAndStuff/foodOrderApp/app/src/main/AndroidManifest.xml:2:1-41:12
+	package
+		ADDED from /home/inightjar/inightjar/testingCodesAndStuff/foodOrderApp/app/src/main/AndroidManifest.xml:3:5-39
+		INJECTED from /home/inightjar/inightjar/testingCodesAndStuff/foodOrderApp/app/src/main/AndroidManifest.xml
+		INJECTED from /home/inightjar/inightjar/testingCodesAndStuff/foodOrderApp/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/inightjar/inightjar/testingCodesAndStuff/foodOrderApp/app/src/main/AndroidManifest.xml
+		ADDED from /home/inightjar/inightjar/testingCodesAndStuff/foodOrderApp/app/src/main/AndroidManifest.xml:2:1-41:12
+		INJECTED from /home/inightjar/inightjar/testingCodesAndStuff/foodOrderApp/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /home/inightjar/inightjar/testingCodesAndStuff/foodOrderApp/app/src/main/AndroidManifest.xml
+		ADDED from /home/inightjar/inightjar/testingCodesAndStuff/foodOrderApp/app/src/main/AndroidManifest.xml:2:1-41:12
+		INJECTED from /home/inightjar/inightjar/testingCodesAndStuff/foodOrderApp/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/inightjar/inightjar/testingCodesAndStuff/foodOrderApp/app/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /home/inightjar/inightjar/testingCodesAndStuff/foodOrderApp/app/src/main/AndroidManifest.xml:5:5-67
+	android:name
+		ADDED from /home/inightjar/inightjar/testingCodesAndStuff/foodOrderApp/app/src/main/AndroidManifest.xml:5:22-64
+application
+ADDED from /home/inightjar/inightjar/testingCodesAndStuff/foodOrderApp/app/src/main/AndroidManifest.xml:7:5-39:19
+MERGED from [com.google.android.material:material:1.2.1] /home/inightjar/.gradle/caches/transforms-3/127241354758d11b93f0210c890a49c5/transformed/material-1.2.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.2.1] /home/inightjar/.gradle/caches/transforms-3/127241354758d11b93f0210c890a49c5/transformed/material-1.2.1/AndroidManifest.xml:22:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] /home/inightjar/.gradle/caches/transforms-3/a07999c6c41f1cb26d56d04d9758bc4c/transformed/constraintlayout-2.0.4/AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] /home/inightjar/.gradle/caches/transforms-3/a07999c6c41f1cb26d56d04d9758bc4c/transformed/constraintlayout-2.0.4/AndroidManifest.xml:9:5-20
+MERGED from [com.github.bumptech.glide:glide:4.11.0] /home/inightjar/.gradle/caches/transforms-3/513698e30761ce0cd79375f75e3bde81/transformed/jetified-glide-4.11.0/AndroidManifest.xml:10:5-20
+MERGED from [com.github.bumptech.glide:glide:4.11.0] /home/inightjar/.gradle/caches/transforms-3/513698e30761ce0cd79375f75e3bde81/transformed/jetified-glide-4.11.0/AndroidManifest.xml:10:5-20
+MERGED from [androidx.core:core:1.3.1] /home/inightjar/.gradle/caches/transforms-3/2c8490e2d60db3b7ae736d9ff0678416/transformed/core-1.3.1/AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.3.1] /home/inightjar/.gradle/caches/transforms-3/2c8490e2d60db3b7ae736d9ff0678416/transformed/core-1.3.1/AndroidManifest.xml:24:5-89
+MERGED from [com.github.bumptech.glide:gifdecoder:4.11.0] /home/inightjar/.gradle/caches/transforms-3/5681ae0cabb22ec49891fe98a39791ff/transformed/jetified-gifdecoder-4.11.0/AndroidManifest.xml:9:5-20
+MERGED from [com.github.bumptech.glide:gifdecoder:4.11.0] /home/inightjar/.gradle/caches/transforms-3/5681ae0cabb22ec49891fe98a39791ff/transformed/jetified-gifdecoder-4.11.0/AndroidManifest.xml:9:5-20
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /home/inightjar/.gradle/caches/transforms-3/12c35f0373503f0fcf2e890dac6d848e/transformed/versionedparcelable-1.1.0/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /home/inightjar/.gradle/caches/transforms-3/12c35f0373503f0fcf2e890dac6d848e/transformed/versionedparcelable-1.1.0/AndroidManifest.xml:24:5-25:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.3.1] /home/inightjar/.gradle/caches/transforms-3/2c8490e2d60db3b7ae736d9ff0678416/transformed/core-1.3.1/AndroidManifest.xml:24:18-86
+	android:supportsRtl
+		ADDED from /home/inightjar/inightjar/testingCodesAndStuff/foodOrderApp/app/src/main/AndroidManifest.xml:12:9-35
+	android:label
+		ADDED from /home/inightjar/inightjar/testingCodesAndStuff/foodOrderApp/app/src/main/AndroidManifest.xml:10:9-41
+	android:roundIcon
+		ADDED from /home/inightjar/inightjar/testingCodesAndStuff/foodOrderApp/app/src/main/AndroidManifest.xml:11:9-54
+	android:icon
+		ADDED from /home/inightjar/inightjar/testingCodesAndStuff/foodOrderApp/app/src/main/AndroidManifest.xml:9:9-43
+	android:allowBackup
+		ADDED from /home/inightjar/inightjar/testingCodesAndStuff/foodOrderApp/app/src/main/AndroidManifest.xml:8:9-35
+	android:theme
+		ADDED from /home/inightjar/inightjar/testingCodesAndStuff/foodOrderApp/app/src/main/AndroidManifest.xml:13:9-50
+activity#com.android.foodorderapp.SignIn
+ADDED from /home/inightjar/inightjar/testingCodesAndStuff/foodOrderApp/app/src/main/AndroidManifest.xml:15:9-69
+	android:exported
+		ADDED from /home/inightjar/inightjar/testingCodesAndStuff/foodOrderApp/app/src/main/AndroidManifest.xml:15:42-66
+	android:name
+		ADDED from /home/inightjar/inightjar/testingCodesAndStuff/foodOrderApp/app/src/main/AndroidManifest.xml:15:19-41
+activity#com.android.foodorderapp.SignUp
+ADDED from /home/inightjar/inightjar/testingCodesAndStuff/foodOrderApp/app/src/main/AndroidManifest.xml:16:9-69
+	android:exported
+		ADDED from /home/inightjar/inightjar/testingCodesAndStuff/foodOrderApp/app/src/main/AndroidManifest.xml:16:42-66
+	android:name
+		ADDED from /home/inightjar/inightjar/testingCodesAndStuff/foodOrderApp/app/src/main/AndroidManifest.xml:16:19-41
+activity#com.android.foodorderapp.OrderSucceessActivity
+ADDED from /home/inightjar/inightjar/testingCodesAndStuff/foodOrderApp/app/src/main/AndroidManifest.xml:17:9-59
+	android:name
+		ADDED from /home/inightjar/inightjar/testingCodesAndStuff/foodOrderApp/app/src/main/AndroidManifest.xml:17:19-56
+activity#com.android.foodorderapp.PlaceYourOrderActivity
+ADDED from /home/inightjar/inightjar/testingCodesAndStuff/foodOrderApp/app/src/main/AndroidManifest.xml:18:9-60
+	android:name
+		ADDED from /home/inightjar/inightjar/testingCodesAndStuff/foodOrderApp/app/src/main/AndroidManifest.xml:18:19-57
+activity#com.android.foodorderapp.RestaurantMenuActivity
+ADDED from /home/inightjar/inightjar/testingCodesAndStuff/foodOrderApp/app/src/main/AndroidManifest.xml:19:9-60
+	android:name
+		ADDED from /home/inightjar/inightjar/testingCodesAndStuff/foodOrderApp/app/src/main/AndroidManifest.xml:19:19-57
+activity#com.android.foodorderapp.MainActivity
+ADDED from /home/inightjar/inightjar/testingCodesAndStuff/foodOrderApp/app/src/main/AndroidManifest.xml:20:9-50
+	android:name
+		ADDED from /home/inightjar/inightjar/testingCodesAndStuff/foodOrderApp/app/src/main/AndroidManifest.xml:20:19-47
+activity#com.android.foodorderapp.crudOrders
+ADDED from /home/inightjar/inightjar/testingCodesAndStuff/foodOrderApp/app/src/main/AndroidManifest.xml:22:9-28:20
+	android:exported
+		ADDED from /home/inightjar/inightjar/testingCodesAndStuff/foodOrderApp/app/src/main/AndroidManifest.xml:22:46-69
+	android:name
+		ADDED from /home/inightjar/inightjar/testingCodesAndStuff/foodOrderApp/app/src/main/AndroidManifest.xml:22:19-45
+activity#com.android.foodorderapp.SplashActivity
+ADDED from /home/inightjar/inightjar/testingCodesAndStuff/foodOrderApp/app/src/main/AndroidManifest.xml:31:9-37:20
+	android:name
+		ADDED from /home/inightjar/inightjar/testingCodesAndStuff/foodOrderApp/app/src/main/AndroidManifest.xml:31:19-49
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /home/inightjar/inightjar/testingCodesAndStuff/foodOrderApp/app/src/main/AndroidManifest.xml:32:13-36:29
+action#android.intent.action.MAIN
+ADDED from /home/inightjar/inightjar/testingCodesAndStuff/foodOrderApp/app/src/main/AndroidManifest.xml:33:17-69
+	android:name
+		ADDED from /home/inightjar/inightjar/testingCodesAndStuff/foodOrderApp/app/src/main/AndroidManifest.xml:33:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/inightjar/inightjar/testingCodesAndStuff/foodOrderApp/app/src/main/AndroidManifest.xml:35:17-77
+	android:name
+		ADDED from /home/inightjar/inightjar/testingCodesAndStuff/foodOrderApp/app/src/main/AndroidManifest.xml:35:27-74
+uses-sdk
+INJECTED from /home/inightjar/inightjar/testingCodesAndStuff/foodOrderApp/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/inightjar/inightjar/testingCodesAndStuff/foodOrderApp/app/src/main/AndroidManifest.xml
+INJECTED from /home/inightjar/inightjar/testingCodesAndStuff/foodOrderApp/app/src/main/AndroidManifest.xml
+MERGED from [com.google.android.material:material:1.2.1] /home/inightjar/.gradle/caches/transforms-3/127241354758d11b93f0210c890a49c5/transformed/material-1.2.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.2.1] /home/inightjar/.gradle/caches/transforms-3/127241354758d11b93f0210c890a49c5/transformed/material-1.2.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] /home/inightjar/.gradle/caches/transforms-3/a07999c6c41f1cb26d56d04d9758bc4c/transformed/constraintlayout-2.0.4/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] /home/inightjar/.gradle/caches/transforms-3/a07999c6c41f1cb26d56d04d9758bc4c/transformed/constraintlayout-2.0.4/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.appcompat:appcompat:1.2.0] /home/inightjar/.gradle/caches/transforms-3/74cae2a8815039475224d5dbb0c04154/transformed/appcompat-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.2.0] /home/inightjar/.gradle/caches/transforms-3/74cae2a8815039475224d5dbb0c04154/transformed/appcompat-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.github.bumptech.glide:glide:4.11.0] /home/inightjar/.gradle/caches/transforms-3/513698e30761ce0cd79375f75e3bde81/transformed/jetified-glide-4.11.0/AndroidManifest.xml:6:5-8:41
+MERGED from [com.github.bumptech.glide:glide:4.11.0] /home/inightjar/.gradle/caches/transforms-3/513698e30761ce0cd79375f75e3bde81/transformed/jetified-glide-4.11.0/AndroidManifest.xml:6:5-8:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/inightjar/.gradle/caches/transforms-3/e1a62715087a89352861ae3443fed18d/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/inightjar/.gradle/caches/transforms-3/e1a62715087a89352861ae3443fed18d/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /home/inightjar/.gradle/caches/transforms-3/e9a984f11cfdd45d3f413f1476f7f21f/transformed/jetified-viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /home/inightjar/.gradle/caches/transforms-3/e9a984f11cfdd45d3f413f1476f7f21f/transformed/jetified-viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] /home/inightjar/.gradle/caches/transforms-3/1e85e43779483780a9d83976050de6a3/transformed/fragment-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] /home/inightjar/.gradle/caches/transforms-3/1e85e43779483780a9d83976050de6a3/transformed/fragment-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] /home/inightjar/.gradle/caches/transforms-3/2ff4ed4a92986ebbeb0e280fcea258bf/transformed/jetified-appcompat-resources-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] /home/inightjar/.gradle/caches/transforms-3/2ff4ed4a92986ebbeb0e280fcea258bf/transformed/jetified-appcompat-resources-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/inightjar/.gradle/caches/transforms-3/6288329dc9f81b44d707170357848660/transformed/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/inightjar/.gradle/caches/transforms-3/6288329dc9f81b44d707170357848660/transformed/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /home/inightjar/.gradle/caches/transforms-3/0751861119962ac0f78d2deaf3a4a68f/transformed/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /home/inightjar/.gradle/caches/transforms-3/0751861119962ac0f78d2deaf3a4a68f/transformed/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /home/inightjar/.gradle/caches/transforms-3/fafe20f33fc1f1973a5a6b5f88e11979/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /home/inightjar/.gradle/caches/transforms-3/fafe20f33fc1f1973a5a6b5f88e11979/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] /home/inightjar/.gradle/caches/transforms-3/e353275a5dad5cd7dd5d51284dfd5302/transformed/transition-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] /home/inightjar/.gradle/caches/transforms-3/e353275a5dad5cd7dd5d51284dfd5302/transformed/transition-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /home/inightjar/.gradle/caches/transforms-3/2123698e98f614592287cfca95ce0b65/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /home/inightjar/.gradle/caches/transforms-3/2123698e98f614592287cfca95ce0b65/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /home/inightjar/.gradle/caches/transforms-3/99b67211caf75454d8db8cffaa4c204a/transformed/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /home/inightjar/.gradle/caches/transforms-3/99b67211caf75454d8db8cffaa4c204a/transformed/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/inightjar/.gradle/caches/transforms-3/d6f048992aa4c98c57a5f34754783a6f/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/inightjar/.gradle/caches/transforms-3/d6f048992aa4c98c57a5f34754783a6f/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /home/inightjar/.gradle/caches/transforms-3/089f3a62207b4741a667b58aa013b8b6/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /home/inightjar/.gradle/caches/transforms-3/089f3a62207b4741a667b58aa013b8b6/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.0.0] /home/inightjar/.gradle/caches/transforms-3/904bdb3126ca59645ce9606f0cf04c69/transformed/jetified-activity-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.0.0] /home/inightjar/.gradle/caches/transforms-3/904bdb3126ca59645ce9606f0cf04c69/transformed/jetified-activity-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /home/inightjar/.gradle/caches/transforms-3/0a48c48e7ac9cdb1931530cff684f072/transformed/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /home/inightjar/.gradle/caches/transforms-3/0a48c48e7ac9cdb1931530cff684f072/transformed/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.0.0] /home/inightjar/.gradle/caches/transforms-3/f5000f73130b69910a081e3326ad36cc/transformed/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /home/inightjar/.gradle/caches/transforms-3/f5000f73130b69910a081e3326ad36cc/transformed/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.3.1] /home/inightjar/.gradle/caches/transforms-3/2c8490e2d60db3b7ae736d9ff0678416/transformed/core-1.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.3.1] /home/inightjar/.gradle/caches/transforms-3/2c8490e2d60db3b7ae736d9ff0678416/transformed/core-1.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [com.github.bumptech.glide:gifdecoder:4.11.0] /home/inightjar/.gradle/caches/transforms-3/5681ae0cabb22ec49891fe98a39791ff/transformed/jetified-gifdecoder-4.11.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.bumptech.glide:gifdecoder:4.11.0] /home/inightjar/.gradle/caches/transforms-3/5681ae0cabb22ec49891fe98a39791ff/transformed/jetified-gifdecoder-4.11.0/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.exifinterface:exifinterface:1.0.0] /home/inightjar/.gradle/caches/transforms-3/d7c78291ba9c17c756cf7f37dad2d5c7/transformed/exifinterface-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.exifinterface:exifinterface:1.0.0] /home/inightjar/.gradle/caches/transforms-3/d7c78291ba9c17c756cf7f37dad2d5c7/transformed/exifinterface-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /home/inightjar/.gradle/caches/transforms-3/12c35f0373503f0fcf2e890dac6d848e/transformed/versionedparcelable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /home/inightjar/.gradle/caches/transforms-3/12c35f0373503f0fcf2e890dac6d848e/transformed/versionedparcelable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] /home/inightjar/.gradle/caches/transforms-3/222f82d0896ea5a4323567186ced203b/transformed/lifecycle-runtime-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] /home/inightjar/.gradle/caches/transforms-3/222f82d0896ea5a4323567186ced203b/transformed/lifecycle-runtime-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /home/inightjar/.gradle/caches/transforms-3/8cde5e2570550ba1b0f026d8adb51334/transformed/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /home/inightjar/.gradle/caches/transforms-3/8cde5e2570550ba1b0f026d8adb51334/transformed/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.0.0] /home/inightjar/.gradle/caches/transforms-3/2099cfb4e298e2beceaeb5050208494f/transformed/jetified-savedstate-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] /home/inightjar/.gradle/caches/transforms-3/2099cfb4e298e2beceaeb5050208494f/transformed/jetified-savedstate-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/inightjar/.gradle/caches/transforms-3/bea07825b7217081cc6ac437eb5d453f/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/inightjar/.gradle/caches/transforms-3/bea07825b7217081cc6ac437eb5d453f/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/inightjar/.gradle/caches/transforms-3/0dff1c662625ea984670c5782fc7d571/transformed/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/inightjar/.gradle/caches/transforms-3/0dff1c662625ea984670c5782fc7d571/transformed/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /home/inightjar/.gradle/caches/transforms-3/45b72bf86ea80fce2b63582a30f5cef2/transformed/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /home/inightjar/.gradle/caches/transforms-3/45b72bf86ea80fce2b63582a30f5cef2/transformed/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /home/inightjar/.gradle/caches/transforms-3/05eb5b7623b154418903d97436d6aa68/transformed/core-runtime-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /home/inightjar/.gradle/caches/transforms-3/05eb5b7623b154418903d97436d6aa68/transformed/core-runtime-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] /home/inightjar/.gradle/caches/transforms-3/ba70c54b8349bcf130060496a9c1409c/transformed/jetified-annotation-experimental-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] /home/inightjar/.gradle/caches/transforms-3/ba70c54b8349bcf130060496a9c1409c/transformed/jetified-annotation-experimental-1.0.0/AndroidManifest.xml:20:5-22:41
+INJECTED from /home/inightjar/inightjar/testingCodesAndStuff/foodOrderApp/app/src/main/AndroidManifest.xml
+INJECTED from /home/inightjar/inightjar/testingCodesAndStuff/foodOrderApp/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /home/inightjar/inightjar/testingCodesAndStuff/foodOrderApp/app/src/main/AndroidManifest.xml
+		ADDED from /home/inightjar/inightjar/testingCodesAndStuff/foodOrderApp/app/src/main/AndroidManifest.xml
+		INJECTED from /home/inightjar/inightjar/testingCodesAndStuff/foodOrderApp/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/inightjar/inightjar/testingCodesAndStuff/foodOrderApp/app/src/main/AndroidManifest.xml
+		ADDED from /home/inightjar/inightjar/testingCodesAndStuff/foodOrderApp/app/src/main/AndroidManifest.xml
+		INJECTED from /home/inightjar/inightjar/testingCodesAndStuff/foodOrderApp/app/src/main/AndroidManifest.xml
